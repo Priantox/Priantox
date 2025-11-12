@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahamudul+Hasan!;" />
 </h1>
 
-<h3 align="center">A Student of Computer Science and Engineering</h3>
+<h3 align="center">Trying, failing, learning — on repeat</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **ML, Express Js**
 
-💬 Ask me about **Node.js, React, Next js or anything**
+💬 Ask me about **React, Next js or anything**
 
 ⚡ Fun fact **Life is good**
 
