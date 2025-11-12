@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently just a student**
+ 🔭 I’m currently just a student
  
  🌱 I’m currently learning **ML, Express Js**
 
