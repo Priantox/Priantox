@@ -44,9 +44,6 @@
 <hr/>
 
 
-![Priantox GitHub stats](https://github-readme-stats-yourusername.vercel.app/api?username=Priantox&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
-
 <br/><br/>
 
 <div align="center">
