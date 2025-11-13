@@ -36,16 +36,27 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<!-- Languages -->
+<h3 align="center">🌐 Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,express,nodejs,php,tailwind,postman,bash" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cpp,figma,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,php,c,cpp" />
+</div>
+<br/>
+
+<!-- Frameworks & Libraries / Runtimes -->
+<h3 align="center">🧩 Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</div>
+<br/>
+
+<!-- Tools -->
+<h3 align="center">🛠️ Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,bash,figma" />
 </div>
 
-<br/>
 <hr/>
-
 <!-- Stats-->
 
 ###
