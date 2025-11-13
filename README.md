@@ -43,7 +43,8 @@
 <br/>
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priantox)](https://github.com/Priantox/github-readme-stats)
+## Stats
+![Priantox GitHub stats](https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=radical)
 
 <br/><br/>
 
