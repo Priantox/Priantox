@@ -39,7 +39,7 @@
 <!-- Languages -->
 <h3 align="center">🌐 Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,php,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bash,python,java,php,c,cpp" />
 </div>
 <br/>
 
@@ -53,7 +53,7 @@
 <!-- Tools -->
 <h3 align="center">🛠️ Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" />
 </div>
 
 <hr/>
