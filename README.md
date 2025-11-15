@@ -66,19 +66,20 @@
 
 ### **Priantox's GitHub Stats**
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priantox&theme=tokyonight" />
+<img width="100%" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priantox&theme=tokyonight" />
 
 <br/>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=tokyonight&hide_border=true" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Priantox&theme=tokyonight&hide_border=true" />
+  <img height="180" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=Priantox&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180" style="border-radius: 10px;" src="https://github-readme-streak-stats.herokuapp.com?user=Priantox&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <br/>
+
 
 ## 🧠 Languages Overview
 
