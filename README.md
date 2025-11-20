@@ -66,7 +66,6 @@
 
 ### **Priantox's GitHub Stats**
 
-<img width="100%" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priantox&theme=tokyonight" />
 
 <br/>
 
