@@ -53,21 +53,3 @@
 </div>
 
 <hr/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<br/>
-
-### **Contribution Graph**
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahamudul-hasan&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=19&color=FFDD00&center=true&vCenter=true&width=400&lines=+Thanks,+Consider+buying+me+a+coffee!++%E2%98%95%F0%9F%92%9B" />
-</div>
