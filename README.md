@@ -1,36 +1,3 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="780" height="655" viewBox="0 0 780 655">
-<line x1="55" y1="15" x2="725" y2="15" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="55" y1="15" x2="70" y2="23" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="725" y1="15" x2="710" y2="23" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="55" y1="55" x2="70" y2="47" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="725" y1="55" x2="710" y2="47" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="70" y1="47" x2="710" y2="47" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="55" y1="23" x2="55" y2="47" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="725" y1="23" x2="725" y2="47" stroke="#6b7280" stroke-width="1.5"/>
-<text x="390.0" y="40.0" text-anchor="middle" font-family='Consolas, "Courier New", monospace' font-size="17" font-weight="bold" fill="#6b7280">Ahamudul Hasan</text>
-<text x="60" y="40.0" font-family='Consolas, "Courier New", monospace' font-size="15" fill="#6b7280">|</text>
-<text x="715" y="40.0" font-family='Consolas, "Courier New", monospace' font-size="15" fill="#6b7280">|</text>
-<text x="70" y="95" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Education</tspan><tspan fill="#4b5563">.......................</tspan><tspan fill="#5aa9e6">Computer Science &amp; Engineering</tspan></text>
-<text x="70" y="118" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Status</tspan><tspan fill="#4b5563">..........................</tspan><tspan fill="#5aa9e6">4th Year Student</tspan></text>
-<text x="70" y="152" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Languages.Programming</tspan><tspan fill="#4b5563">...........</tspan><tspan fill="#5aa9e6">Python, C, C++, Java, Bash</tspan></text>
-<text x="70" y="175" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Languages.Web</tspan><tspan fill="#4b5563">...................</tspan><tspan fill="#5aa9e6">HTML, CSS, JavaScript, TypeScript, PHP</tspan></text>
-<text x="70" y="198" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Languages.Database</tspan><tspan fill="#4b5563">..............</tspan><tspan fill="#5aa9e6">MySQL</tspan></text>
-<text x="70" y="221" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Languages.Real</tspan><tspan fill="#4b5563">..................</tspan><tspan fill="#5aa9e6">English, Bengali</tspan></text>
-<text x="70" y="255" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Frameworks</tspan><tspan fill="#4b5563">......................</tspan><tspan fill="#5aa9e6">Next.js, Node.js, Express.js, Flask, Tailwind CSS</tspan></text>
-<text x="70" y="278" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Library</tspan><tspan fill="#4b5563">.........................</tspan><tspan fill="#5aa9e6">React.js</tspan></text>
-<text x="70" y="301" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">AI.Frameworks</tspan><tspan fill="#4b5563">...................</tspan><tspan fill="#5aa9e6">PyTorch, TensorFlow</tspan></text>
-<text x="70" y="324" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">AI.Libraries</tspan><tspan fill="#4b5563">....................</tspan><tspan fill="#5aa9e6">Scikit-learn, Keras, NumPy, Pandas, Matplotlib, Seaborn</tspan></text>
-<text x="70" y="347" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">AI</tspan><tspan fill="#4b5563">..............................</tspan><tspan fill="#5aa9e6">Machine Learning</tspan></text>
-<text x="70" y="370" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Currently.Learning</tspan><tspan fill="#4b5563">..............</tspan><tspan fill="#5aa9e6">CUDA, GPU Programming, Deep Learning</tspan></text>
-<text x="70" y="404" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Tools</tspan><tspan fill="#4b5563">...........................</tspan><tspan fill="#5aa9e6">Git, GitHub, VS Code, Postman, Figma, npm</tspan></text>
-<text x="70" y="427" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Interests</tspan><tspan fill="#4b5563">.......................</tspan><tspan fill="#5aa9e6">Full Stack Development, Artificial Intelligence, LLM</tspan></text>
-<line x1="55" y1="461" x2="725" y2="461" stroke="#6b7280" stroke-width="1"/>
-<text x="70" y="495" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Contact</tspan></text>
-<text x="70" y="518" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Email</tspan><tspan fill="#4b5563">...........................</tspan><tspan fill="#5aa9e6">priantox07@gmail.com</tspan></text>
-<text x="70" y="541" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">LinkedIn</tspan><tspan fill="#4b5563">........................</tspan><tspan fill="#5aa9e6">ahamudul-hasan</tspan></text>
-<text x="70" y="564" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Facebook</tspan><tspan fill="#4b5563">........................</tspan><tspan fill="#5aa9e6">Ahamudul Hasan</tspan></text>
-<text x="70" y="587" font-family='Consolas, "Courier New", monospace' font-size="15" xml:space="preserve"><tspan fill="#4b5563">. </tspan><tspan fill="#e2a854" font-weight="bold">Discord</tspan><tspan fill="#4b5563">.........................</tspan><tspan fill="#5aa9e6">moonlightx031</tspan></text>
-<line x1="55" y1="620" x2="725" y2="620" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="55" y1="620" x2="70" y2="628" stroke="#6b7280" stroke-width="1.5"/>
-<line x1="725" y1="620" x2="710" y2="628" stroke="#6b7280" stroke-width="1.5"/>
-</svg>
+﻿<p align="center">
+  <img src="assets/readme_card.png" width="740">
+</p>
